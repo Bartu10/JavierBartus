@@ -64,11 +64,11 @@ function Projects() {
               imgPath={consergpt}
               isBlog={false}
               title="ConserGPT"
-              description="Este chatbot en fase alpha sobre las leyes educativas de la Junta de Andalucía está siendo desarrollado como parte de mi Trabajo de Fin de Grado (TFG) en Inteligencia Artificial. Integrará procesamiento del lenguaje natural y datos actualizados para proporcionar respuestas precisas a través de una interfaz de chat intuitiva."
+              description="Este chatbot en fase alpha sobre las leyes educativas de la Junta de Andalucía está siendo desarrollado como parte de mi Trabajo de Fin de Grado (TFG) en Inteligencia Artificial. Integrará procesamiento del lenguaje natural y datos actualizados para proporcionar respuestas precisas a través de una interfaz de chat intuitiva. Además, el proyecto se basa en Mixtral, una tecnología que mejora la interacción y la comprensión del usuario, asegurando respuestas más precisas y adaptadas a sus necesidades."
               tech={["Python", "Mixtral"]}
               utils={["Visual Studio Code", "Git"]}
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/Bartu10/ConserGPT"
+              demoLink="https://huggingface.co/spaces/Bartusito/ConserGPT"              
             />
           </Col>
 
